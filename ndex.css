@@ -6,3 +6,12 @@ h1{
 p{
     color: chocolate;
 }
+
+.jh{
+
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
